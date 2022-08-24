@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+.titulo{
+    color: rgb(0, 0, 0) ;
+    font-size: 50px;
+    text-shadow: 10px 3px 10px rgb(107, 107, 107);
+    background-color: aqua;
+    border-radius: 10px;
+    padding-left:40% ;
+}
+.titulo:hover{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-shadow: 10px 3px 10px rgb(107, 107, 107);
+    background-color: rgb(0, 255, 85);
+    border-radius: 10px;
+    padding-left:40% ;
+}
+
+.subtitulo{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    padding-left:47% ;
+}
+
+/* ao colocar '!' vc fala que aquele atributo é importante----- '!' antes do ponto e virgula */
+
+
+/*  em --- elemento vinculado
+    rem-- elemento raiz
+*/
